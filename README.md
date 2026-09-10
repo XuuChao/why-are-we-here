@@ -1,15 +1,13 @@
-# why-are-we-here
-为什么学编程
-AI 已经能写很多代码，所以我想讨论：我为什么还需要学。
+# Why Are We Here?
 
-结合自己的 VR 项目
-AI 可以帮我生成代码，但我还是需要理解代码，判断它对不对、适不适合实际项目。
+## Why I Still Need to Learn Programming
 
-我认为编程的价值变了
-以后不一定是“自己写每一行代码”，而是更重要地学会定义需求、理解逻辑、判断结果。
+AI can already generate a lot of working code. As someone who works with VR, interactive experiences and AI products, this makes me question why I still need to learn programming myself.
 
-设计师为什么也要懂编程
-因为代码、AI、游戏引擎本身也是一种创作媒介，懂它会影响我能设计出什么。
+## My Experience with VR Development
 
-结论
-我学编程不是为了和 AI 比谁写得快，而是为了更好地控制 AI 和数字工具，做出我真正想要的东西。
+## Programming in the Age of AI
+
+## Conclusion
+
+## References
